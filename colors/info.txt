@@ -1,0 +1,52 @@
+Color ranges:
+
+- Yellow: Optimism, Clarity, Warmth
+- Orange: Friendly, Cheerful, Confidence
+- Red:    Excitement, Youthful, Bold
+- Purple: Creative, Imaginative, Wise
+- Blue:  Trust, Dependable, Strength
+- Green: Peaceful, Growth, Health
+- Gray: Balance, Neutral, Calm
+
+https://www.huffingtonpost.com/brian-honigman/psychology-color-design-infographic_b_2516608.html
+
+Red:    Passionate, aggressive, important
+Orange: Playful, energetic, cheap
+Yellow: Happy, friendly, warning
+Green:  Natural, stable, prosperous
+Blue:   Serene, trustworthy, inviting
+Purple: Luxurious, mysterious, romantic
+Pink:   Feminine, young, innocent
+Brown:  Earthy, sturdy, rustic
+Black:  Powerful, sophisticated, edgy
+White:  Clean, virtuous, healthy
+Grey:   Neutral, formal, gloomy
+Beige:  (accentuating effect)
+
+https://www.creativebloq.com/web-design/12-colours-and-emotions-they-evoke-61515112/2
+
+Color Properties:
+
+- Hue       --> what color is it?
+- Intensity --> how vivid is it? 
+- Value     --> how light is it? Light/dark or tints/tones/shades
+
+https://visual.ly/community/infographic/education/three-properties-color
+
+Primary - Red, Blue, Yellow
+Secondary - Purple, Green, Orange
+Tertiary - Adjacent primary and secondary colors
+
+Chroma/Saturation(tone): intensity 
+	100% most vivid natural state
+	0%   monochrome luna component
+	Add gray or complementary color to to desaturate
+
+Value/Lightness: tint/tone/shade, degree of light
+	adding white is tint
+	adding black is shade
+
+https://www.premiumbeat.com/blog/basic-properties-color/
+
+Read:
+http://journals.ama.org/doi/abs/10.1509/jmkr.41.2.215.28668
