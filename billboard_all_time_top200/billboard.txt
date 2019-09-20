@@ -1,0 +1,1401 @@
+
+The Twist
+Chubby Checker
+1
+1960
+60
+M
+6
+Smooth
+Santana Featuring Rob Thomas
+2
+1999
+90
+D
+8
+Mack The Knife
+Bobby Darin
+3
+1959
+50
+M
+7
+Uptown Funk!
+Mark Ronson Featuring Bruno Mars
+4
+2015
+10
+M
+7
+How Do I Live
+LeAnn Rimes
+5
+1997
+90
+F
+2
+Party Rock Anthem
+LMFAO Featuring Lauren Bennett & GoonRock
+6
+2011
+10
+D
+5
+I Gotta Feeling
+The Black Eyed Peas
+7
+2009
+00
+D
+7
+Macarena (Bayside Boys Mix)
+Los Del Rio
+8
+1996
+90
+D
+1
+Shape Of You
+Ed Sheeran
+9
+2017
+10
+M
+7
+Physical
+Olivia Newton-John
+10
+1981
+80
+F
+7
+You Light Up My Life
+Debby Boone
+11
+1977
+70
+F
+2
+Hey Jude
+The Beatles
+12
+1968
+60
+D
+8
+Closer
+The Chainsmokers Featuring Halsey
+13
+2016
+10
+D
+5
+We Belong Together
+Mariah Carey
+14
+2005
+00
+F
+6
+Un-Break My Heart
+Toni Braxton
+15
+1996
+90
+F
+6
+Yeah!
+Usher Featuring Lil Jon & Ludacris
+16
+2004
+00
+M
+6
+Bette Davis Eyes
+Kim Carnes
+17
+1981
+80
+F
+7
+Endless Love
+Diana Ross & Lionel Richie
+18
+1981
+80
+Male/Female
+6
+Tonight'S The Night (Gonna Be Alright)
+Rod Stewart
+19
+1976
+70
+M
+8
+Foolish Games/You Were Meant For Me
+Jewel
+20
+1997
+90
+F
+7
+(Everything I Do) I Do It For You
+Bryan Adams
+21
+1991
+90
+M
+7
+I'Ll Make Love To You
+Boyz II Men
+22
+1994
+90
+D
+6
+The Theme From "A Summer Place"
+Percy Faith And His Orchestra
+23
+1960
+60
+M
+7
+Le Freak
+Chic
+24
+1978
+70
+D
+5
+How Deep Is Your Love
+Bee Gees
+25
+1977
+70
+D
+7
+Eye Of The Tiger
+Survivor
+26
+1982
+80
+D
+8
+We Found Love
+Rihanna Featuring Calvin Harris
+27
+2011
+10
+F
+7
+Low
+Flo Rida Featuring T-Pain
+28
+2008
+00
+M
+3
+I Just Want To Be Your Everything
+Andy Gibb
+29
+1977
+70
+M
+7
+Too Close
+Next
+30
+1998
+90
+D
+6
+Every Breath You Take
+The Police
+31
+1983
+80
+D
+8
+Somebody That I Used To Know
+Gotye Featuring Kimbra
+32
+2012
+10
+M
+8
+Despacito
+Luis Fonsi & Daddy Yankee Featuring Justin Bieber
+33
+2017
+10
+M
+1
+Flashdance...What A Feeling
+Irene Cara
+34
+1983
+80
+F
+7
+Rolling In The Deep
+Adele
+35
+2011
+10
+F
+7
+Tossin' And Turnin'
+Bobby Lewis
+36
+1961
+60
+M
+6
+The Battle Of New Orleans
+Johnny Horton
+37
+1959
+50
+M
+8
+One Sweet Day
+Mariah Carey & Boyz II Men
+38
+1995
+90
+Female/Duo/Group
+6
+Truly Madly Deeply
+Savage Garden
+39
+1998
+90
+D
+7
+Silly Love Songs
+Wings
+40
+1976
+70
+D
+8
+Let'S Get It On
+Marvin Gaye
+41
+1973
+70
+M
+6
+Night Fever
+Bee Gees
+42
+1978
+70
+D
+5
+Another One Bites The Dust
+Queen
+43
+1980
+80
+D
+8
+Say Say Say
+Paul McCartney And Michael Jackson
+44
+1983
+80
+M
+7
+How You Remind Me
+Nickelback
+45
+2001
+00
+D
+8
+Tie A Yellow Ribbon Round The Ole Oak Tree
+Dawn Featuring Tony Orlando
+46
+1973
+70
+D
+7
+It'S All In The Game
+Tommy Edwards
+47
+1958
+50
+M
+6
+I Want To Hold Your Hand
+The Beatles
+48
+1964
+60
+D
+8
+Shadow Dancing
+Andy Gibb
+49
+1978
+70
+M
+7
+Call Me Maybe
+Carly Rae Jepsen
+50
+2012
+10
+F
+7
+Blurred Lines
+Robin Thicke Featuring T.I. + Pharrell
+51
+2013
+10
+M
+6
+Candle In The Wind 1997/Something About The Way You Look Tonight
+Elton John
+52
+1997
+90
+M
+7
+No One
+Alicia Keys
+53
+2007
+00
+F
+6
+I Will Always Love You
+Whitney Houston
+54
+1992
+90
+F
+6
+End Of The Road
+Boyz II Men
+55
+1992
+90
+D
+6
+Boom Boom Pow
+The Black Eyed Peas
+56
+2009
+00
+D
+7
+Call Me
+Blondie
+57
+1980
+80
+D
+8
+Let Me Love You
+Mario
+58
+2005
+00
+M
+6
+Stayin' Alive
+Bee Gees
+59
+1978
+70
+D
+5
+Lady
+Kenny Rogers
+60
+1980
+80
+M
+2
+Tik Tok
+Ke$ha
+61
+2010
+10
+F
+7
+I'M A Believer
+The Monkees
+62
+1966
+60
+D
+7
+Gold Digger
+Kanye West Featuring Jamie Foxx
+63
+2005
+00
+M
+3
+Apologize
+Timbaland Featuring OneRepublic
+64
+2007
+00
+M
+7
+The Sign
+Ace Of Base
+65
+1994
+90
+D
+7
+Centerfold
+The J. Geils Band
+66
+1982
+80
+D
+8
+All About That Bass
+Meghan Trainor
+67
+2014
+10
+F
+7
+(Just Like) Starting Over
+John Lennon
+68
+1980
+80
+M
+8
+Royals
+Lorde
+69
+2013
+10
+F
+8
+The Boy Is Mine
+Brandy & Monica
+70
+1998
+90
+F
+6
+Because I Love You (The Postman Song)
+Stevie B
+71
+1990
+90
+M
+7
+I Love Rock 'N Roll
+Joan Jett & the Blackhearts
+72
+1982
+80
+D
+8
+Aquarius/Let The Sunshine In
+The 5th Dimension
+73
+1969
+60
+D
+7
+Whoomp! (There It Is)
+Tag Team
+74
+1993
+90
+D
+3
+Moves Like Jagger
+Maroon 5 Featuring Christina Aguilera
+75
+2011
+10
+D
+7
+Ebony And Ivory
+Paul McCartney And Stevie Wonder
+76
+1982
+80
+M
+7
+Rush Rush
+Paula Abdul
+77
+1991
+90
+F
+7
+That'S What Friends Are For
+Dionne & Friends
+78
+1986
+80
+D
+6
+Happy
+Pharrell
+79
+2014
+10
+M
+6
+Upside Down
+Diana Ross
+80
+1980
+80
+F
+5
+Sugar, Sugar
+The Archies
+81
+1969
+60
+D
+7
+Just The Way You Are
+Bruno Mars
+82
+2010
+10
+M
+7
+Dilemma
+Nelly Featuring Kelly Rowland
+83
+2002
+00
+M
+3
+I Heard It Through The Grapevine
+Marvin Gaye
+84
+1968
+60
+M
+6
+You'Re Still The One
+Shania Twain
+85
+1998
+90
+F
+2
+Billie Jean
+Michael Jackson
+86
+1983
+80
+M
+6
+Hot Stuff
+Donna Summer
+87
+1979
+70
+F
+5
+Rockstar
+Post Malone Featuring 21 Savage
+88
+2017
+10
+M
+3
+Gangsta'S Paradise
+Coolio Featuring L.V.
+89
+1995
+90
+M
+3
+Abracadabra
+The Steve Miller Band
+90
+1982
+80
+D
+8
+Perfect
+Ed Sheeran
+91
+2017
+10
+M
+7
+You'Re So Vain
+Carly Simon
+92
+1973
+70
+F
+7
+Play That Funky Music
+Wild Cherry
+93
+1976
+70
+D
+6
+Say You, Say Me
+Lionel Richie
+94
+1985
+80
+M
+6
+My Sharona
+The Knack
+95
+1979
+70
+D
+8
+All Night Long (All Night)
+Lionel Richie
+96
+1983
+80
+M
+6
+Nothing Compares 2 U
+Sinead O'Connor
+97
+1990
+90
+F
+8
+I Swear
+All-4-One
+98
+1994
+90
+D
+6
+Family Affair
+Mary J. Blige
+99
+2001
+00
+F
+6
+Waiting For A Girl Like You
+Foreigner
+100
+1981
+80
+D
+8
+Are You Lonesome To-Night?
+Elvis Presley With The Jordanaires
+101
+1960
+60
+M
+8
+Killing Me Softly With His Song
+Roberta Flack
+102
+1973
+70
+F
+6
+See You Again
+Wiz Khalifa Featuring Charlie Puth
+103
+2015
+10
+M
+3
+Hurts So Good
+John Cougar
+104
+1982
+80
+M
+8
+I'Ll Be Missing You
+Puff Daddy & Faith Evans Featuring 112
+105
+1997
+90
+Male/Female
+3
+Dark Horse
+Katy Perry Featuring Juicy J
+106
+2014
+10
+F
+7
+Raindrops Keep Fallin' On My Head
+B.J. Thomas
+107
+1970
+70
+M
+7
+Thrift Shop
+Macklemore & Ryan Lewis Featuring Wanz
+108
+2013
+10
+D
+3
+Another Day In Paradise
+Phil Collins
+109
+1989
+80
+M
+8
+One More Night
+Maroon 5
+110
+2012
+10
+D
+7
+Best Of My Love
+The Emotions
+111
+1977
+70
+D
+6
+We Are Young
+fun. Featuring Janelle Monae
+112
+2012
+10
+D
+8
+That'S What I Like
+Bruno Mars
+113
+2017
+10
+M
+6
+You Make Me Wanna...
+Usher
+114
+1997
+90
+M
+6
+Big Girls Don'T Cry
+Fergie
+115
+2007
+00
+F
+7
+The Way We Were
+Barbra Streisand
+116
+1974
+70
+F
+7
+Another Night
+Real McCoy
+117
+1994
+90
+D
+5
+It'S Now Or Never
+Elvis Presley With The Jordanaires
+118
+1960
+60
+M
+8
+Do That To Me One More Time
+Captain & Tennille
+119
+1980
+80
+D
+7
+A Fifth Of Beethoven
+Walter Murphy & The Big Apple Band
+120
+1976
+70
+D
+5
+Like A Virgin
+Madonna
+121
+1984
+80
+F
+7
+Maria Maria
+Santana Featuring The Product G&B
+122
+2000
+00
+D
+6
+When Doves Cry
+Prince
+123
+1984
+80
+M
+6
+I Will Survive
+Gloria Gaynor
+124
+1979
+70
+F
+5
+I Can'T Stop Loving You
+Ray Charles
+125
+1962
+60
+M
+6
+U Got It Bad
+Usher
+126
+2001
+00
+M
+6
+Whatever You Like
+T.I.
+127
+2008
+00
+M
+3
+Down
+Jay Sean Featuring Lil Wayne
+128
+2009
+00
+M
+7
+Bleeding Love
+Leona Lewis
+129
+2008
+00
+F
+7
+Joy To The World
+Three Dog Night
+130
+1971
+70
+D
+8
+Independent Women Part I
+Destiny's Child
+131
+2000
+00
+D
+6
+Foolish
+Ashanti
+132
+2002
+00
+F
+6
+Maneater
+Daryl Hall John Oates
+133
+1982
+80
+D
+7
+My Love
+Paul McCartney And Wings
+134
+1973
+70
+D
+8
+The Hills
+The Weeknd
+135
+2015
+10
+M
+6
+Nobody Knows
+The Tony Rich Project
+136
+1996
+90
+M
+6
+Alone Again (Naturally)
+Gilbert O'Sullivan
+137
+1972
+70
+M
+7
+All Of Me
+John Legend
+138
+2014
+10
+M
+6
+Shake It Off
+Taylor Swift
+139
+2014
+10
+F
+7
+The First Time Ever I Saw Your Face
+Roberta Flack
+140
+1972
+70
+F
+6
+One Dance
+Drake Featuring WizKid & Kyla
+141
+2016
+10
+M
+3
+Radioactive
+Imagine Dragons
+142
+2013
+10
+D
+8
+Sexy And I Know It
+LMFAO
+143
+2012
+10
+D
+5
+Someone Like You
+Adele
+144
+2011
+10
+F
+7
+Hey Ya!
+OutKast
+145
+2003
+00
+D
+6
+Another Brick In The Wall (Part Ii)
+Pink Floyd
+146
+1980
+80
+D
+8
+Burn
+Usher
+147
+2004
+00
+M
+6
+The Way You Move
+OutKast Featuring Sleepy Brown
+148
+2004
+00
+D
+3
+God'S Plan
+Drake
+149
+2018
+10
+M
+3
+Faith
+George Michael
+150
+1987
+80
+M
+7
+Crank That (Soulja Boy)
+Soulja Boy Tell'em
+151
+2007
+00
+M
+3
+Because You Loved Me
+Celine Dion
+152
+1996
+90
+F
+7
+In Da Club
+50 Cent
+153
+2003
+00
+M
+3
+Venus
+Frankie Avalon
+154
+1959
+50
+M
+7
+Counting Stars
+OneRepublic
+155
+2014
+10
+D
+7
+Crazy Little Thing Called Love
+Queen
+156
+1980
+80
+D
+8
+Rhinestone Cowboy
+Glen Campbell
+157
+1975
+70
+M
+2
+Breathe
+Faith Hill
+158
+2000
+00
+F
+2
+I'M Sorry
+Brenda Lee
+159
+1960
+60
+F
+7
+Irreplaceable
+Beyonce
+160
+2006
+00
+F
+6
+Total Eclipse Of The Heart
+Bonnie Tyler
+161
+1983
+80
+F
+7
+Careless Whisper
+Wham! Featuring George Michael
+162
+1985
+80
+D
+7
+Kiss You All Over
+Exile
+163
+1978
+70
+D
+7
+Hanging By A Moment
+Lifehouse
+164
+2001
+00
+D
+8
+Walk Like An Egyptian
+The Bangles
+165
+1986
+80
+D
+7
+E.T.
+Katy Perry Featuring Kanye West
+166
+2011
+10
+F
+7
+Nel Blu Dipinto Di Blu (Volaré)
+Domenico Modugno
+167
+1958
+50
+M
+7
+To Know Him, Is To Love Him
+The Teddy Bears
+168
+1958
+50
+D
+7
+Lose Yourself
+Eminem
+169
+2002
+00
+M
+3
+I'Ll Be There
+Jackson 5
+170
+1970
+70
+D
+6
+Fallin'
+Alicia Keys
+171
+2001
+00
+F
+6
+Creep
+TLC
+172
+1995
+90
+D
+6
+Love Theme From "A Star Is Born" (Evergreen)
+Barbra Streisand
+173
+1977
+70
+F
+7
+Love Is Blue (L'Amour Est Bleu)
+Paul Mauriat And His Orchestra
+174
+1968
+60
+M
+7
+Disco Duck (Part I)
+Rick Dees & His Cast Of Idiots
+175
+1976
+70
+M
+7
+I'M Real
+Jennifer Lopez Featuring Ja Rule
+176
+2001
+00
+F
+7
+Goodies
+Ciara Featuring Petey Pablo
+177
+2004
+00
+F
+6
+Hello, Dolly!
+Louis Armstrong And The All Stars
+178
+1964
+60
+M
+4
+Don'T You Want Me
+The Human League
+179
+1982
+80
+D
+5
+Da Ya Think I'M Sexy?
+Rod Stewart
+180
+1979
+70
+M
+7
+Waterfalls
+TLC
+181
+1995
+90
+D
+6
+Maggie May/Reason To Believe
+Rod Stewart
+182
+1971
+70
+M
+8
+Big Girls Don'T Cry
+The 4 Seasons
+183
+1962
+60
+D
+7
+Hot In Herre
+Nelly
+184
+2002
+00
+M
+3
+I Write The Songs
+Barry Manilow
+185
+1976
+70
+M
+7
+Jessie'S Girl
+Rick Springfield
+186
+1981
+80
+M
+7
+Gonna Make You Sweat (Everybody Dance Now)
+C+C Music Factory
+187
+1991
+90
+D
+5
+Boogie Oogie Oogie
+A Taste Of Honey
+188
+1978
+70
+D
+5
+Woman In Love
+Barbra Streisand
+189
+1980
+80
+F
+7
+Trap Queen
+Fetty Wap
+190
+2015
+10
+M
+3
+Run It!
+Chris Brown
+191
+2005
+00
+M
+6
+Philadelphia Freedom
+The Elton John Band
+192
+1975
+70
+D
+7
+Love Yourself
+Justin Bieber
+193
+2016
+10
+M
+7
+Sugar Shack
+Jimmy Gilmer And The Fireballs
+194
+1963
+60
+D
+7
+Honky Tonk Women
+The Rolling Stones
+195
+1969
+60
+D
+8
+Just Dance
+Lady Gaga Featuring Colby O'Donis
+196
+2009
+00
+F
+7
+Vogue
+Madonna
+197
+1990
+90
+F
+7
+Tom Dooley
+The Kingston Trio
+198
+1958
+50
+D
+7
+Love Takes Time
+Mariah Carey
+199
+1990
+90
+F
+6
+My Boo
+Usher And Alicia Keys
+200
+2004
+00
+Male/Female
+6
